@@ -1,0 +1,14 @@
+SmartElevators
+Media Monks Technical Test
+
+MEDIA MONKS - EJERCICIO DE LOGIA
+
+"ELEVADORES INTELIGENTES"
+
+Se debe programar un software para gestionar 3 elevadores de un edificio de 20 pisos,
+que desea ahorrar lo maximo posible en energia. Los elevadores estan disponibles a los pasajeros,
+para tomarlos o dejarlos en todos los pisos. Hay un solo boton de llamada por piso.
+
+Que variables tendria en cuenta? Realice una funcion con esas variables, que resuelva que ascensor
+debe responder un llamado en un momento dado. De ejemplos de como seria la logica si llaman desde
+planta baja, ultimo piso y otro piso cualquiera, aclarando para cada caso el estado de todos los ascensores.
