@@ -7,8 +7,6 @@ public class Elevator {
     private int currentFloor;
 
     public Elevator(String name, int currentFloor) throws Exception {
-        if (currentFloor > 20)
-            throw new Exception("The value for currentFloor must be between 0 and 20");
         this.name = name;
         this.currentFloor = currentFloor;
     }
